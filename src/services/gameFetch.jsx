@@ -10,7 +10,7 @@ function GameCollector(apiData) {
 		const x = async() => {
 			try {
 			console.log(id);
-			const result = await fetch(`http://127.0.0.1:8000/${id}`);
+			const result = await fetch(`https://imdb-top-60-video-games-ezra.onrender.com/${id}`);
 			const finale = await result.json();
 	               	console.log(finale);
 			fetchGame(finale);

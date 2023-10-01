@@ -18,7 +18,7 @@ function ApiClient(error, setError, isLoading, setLoading, apiData, fetchApi) {
 	
 	const x = async() => {
 		try {
-			const result = await fetch("http://127.0.0.1:8000/");
+			const result = await fetch("https://imdb-top-60-video-games-ezra.onrender.com/");
 			const finale = await result.json();
 			fetchApi(finale);
 			setLoading(false);
