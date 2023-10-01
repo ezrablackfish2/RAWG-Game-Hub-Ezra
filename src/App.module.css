@@ -170,8 +170,12 @@
 }
 
 .load {
-	width: 50%;
+        position: relative;
+        width: 20%;
+        align-items: center;
+        left: 30%;
 }
+
 
 .mode {
 	position: absolute;
