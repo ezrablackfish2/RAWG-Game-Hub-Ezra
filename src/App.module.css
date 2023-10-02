@@ -7,6 +7,7 @@
 
 .searchbar {
 	font-family: purisa;
+	font-family: 'Bellota', cursive;
 	font-size: 100%;
 	position: absolute;
 	left: 25%;
@@ -19,6 +20,7 @@
 
 .sorter {
 	font-family: purisa;
+	font-family: 'Bellota', cursive;
         font-size: 90%;
         position: absolute;
         top: 60px;
@@ -35,6 +37,7 @@
 
 .dropdownplat {
 	font-family: purisa;
+	font-family: 'Bellota', cursive;
 	font-size: 120%;
 	position: absolute;
 	top: 60px;
@@ -69,6 +72,7 @@
 }
 .genrelist {
 	font-family: uroob;
+	font-family: 'Itim', cursive;
 	font-size: 120%;
 	display: block;
 	color: #dddddd;
@@ -97,6 +101,7 @@
 	display: inline-block;
 	width: 20%;
 	font-family: uroob;
+	font-family: 'Itim', cursive;
 	font-size: 130%;
 	position: absolute;
 	margin-top: 0%;
@@ -107,6 +112,7 @@
 
 .metacritic {
 	font-family: uroob;
+	font-family: 'Itim', cursive;
 	font-size: 140%;
 	position: relative;
 	color:#ffff00;
@@ -119,6 +125,7 @@
 
 .body {
 	font-family: purisa;
+	font-family: 'Bellota', cursive;
 }
 
 .picon {
@@ -134,6 +141,7 @@
 
 .gameTitle {
 	font-family: purisa;
+	font-family: 'Bellota', cursive;
 	font-size: 100%;
 	margin-bottom: 4%;
 	background-color: #ffff00;
@@ -301,6 +309,7 @@
 
 .nav {
 	font-family: purisa;
+	font-family: 'Bellota', cursive;
 	font-size: 120%;
 	position: relative;
 	width: 100%;
